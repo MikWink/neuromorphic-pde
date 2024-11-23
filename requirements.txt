@@ -1,0 +1,4 @@
+matplotlib==3.9.2
+nengo==4.0.0
+pip-chill==1.0.3
+scipy==1.14.1
